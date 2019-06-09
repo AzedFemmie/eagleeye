@@ -8,4 +8,9 @@
     <ProjectReference Include="..\EagleEye.Core\EagleEye.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>
